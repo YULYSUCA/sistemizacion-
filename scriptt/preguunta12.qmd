@@ -1,0 +1,16 @@
+MEDIDAS DE DISPERSIÓN Y POSICIÓN
+
+VARIANZA
+
+Nos dice qué tanto varían las edades. Número grande = edades muy
+diferentes. Número pequeño = edades parecidas.
+
+DESVIACIÓN ESTÁNDAR
+
+RANGO
+
+RANGO INTERCUARTILICO
+
+CUARTILES
+
+6 FILAS
